@@ -92,7 +92,7 @@ table {
 
 /*yellow right side container*/
 
-#songs {
+#song-list {
   display: block;
   background-color: #FEFAC0;
   height: 380px;
